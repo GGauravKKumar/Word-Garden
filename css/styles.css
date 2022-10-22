@@ -8,7 +8,11 @@ background-size: cover;
 }
 
 /* TODO: Styling by html element: add styling for h1 and h2 */
-h1, h2 {
+h1 {
+  font-weight: 400;
+  font-size: 200px;
+}
+h2 {
   font-weight: 400;
   font-size: 200px;
 }
@@ -16,7 +20,7 @@ h1, h2 {
 /* TODO: Styling by id: add styling for #title */
 #title {
   color: #FC8C93;
-  line-height: 50px;
+  line-height: 45px;
 }
 
 #question {
